@@ -172,3 +172,35 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# === Data Science Project Additions ===
+
+# Ignore raw and processed data files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+*.zip
+
+# Ignore model artifacts
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Ignore outputs
+outputs/
+results/
+figures/
+plots/
+
+# Ignore notebook exports
+*.html
+*.md
+
+# Ignore VSCode settings (optional)
+.vscode/
