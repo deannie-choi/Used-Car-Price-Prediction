@@ -86,13 +86,17 @@ Model was tuned using `RandomizedSearchCV` over 50 parameter combinations.
 ---
 
 💡 What I Learned
-How to clean and explore messy real-world data
+- How to clean and explore messy real-world data
 
-Why log-transforming skewed variables like price improves regression
+- Why log-transforming skewed variables like price improves regression
 
-How to engineer interpretable features like car_age and mileage_per_year
+- How to engineer interpretable features like car_age and mileage_per_year
 
-The importance of encoding and simplifying categorical variables
+- The importance of encoding and simplifying categorical variables
 
-The value of hyperparameter tuning in boosting model performance
-   
+- The value of hyperparameter tuning in boosting model performance
+
+👤 Author
+Dean Choi
+📧 cdh0118@gmail.com
+🔗 LinkedIn
