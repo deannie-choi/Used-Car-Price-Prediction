@@ -85,9 +85,14 @@ Model was tuned using `RandomizedSearchCV` over 50 parameter combinations.
 
 ---
 
-## 🛠 How to Run Locally
+💡 What I Learned
+How to clean and explore messy real-world data
 
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/your-username/used-car-price-prediction.git
-   cd used-car-price-prediction
+Why log-transforming skewed variables like price improves regression
+
+How to engineer interpretable features like car_age and mileage_per_year
+
+The importance of encoding and simplifying categorical variables
+
+The value of hyperparameter tuning in boosting model performance
+   
