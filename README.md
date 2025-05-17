@@ -61,15 +61,14 @@ Model was tuned using `RandomizedSearchCV` over 50 parameter combinations.
 ### 📌 Price Distribution  
 ![image](https://github.com/user-attachments/assets/e050dbff-8a1c-4b73-a0db-3187aa730576)
 
-
 ### 📌 Price vs Year  
-![price_vs_year](figures/price_vs_year.png)
+![image](https://github.com/user-attachments/assets/8bdf3a55-d187-4968-bed6-79b5b1a375d2)
 
 ### 📌 Price vs Odometer  
-![price_vs_odometer](figures/price_vs_odometer.png)
+![image](https://github.com/user-attachments/assets/680c18e2-7298-466e-bbaf-d5430cd95801)
 
 ### 📌 Feature Importance  
-![feature_importance](figures/feature_importance.png)
+![image](https://github.com/user-attachments/assets/fd270f9c-fac1-498f-91ff-85e86bc3705c)
 
 ---
 
