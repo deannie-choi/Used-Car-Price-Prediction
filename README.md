@@ -59,7 +59,8 @@ Model was tuned using `RandomizedSearchCV` over 50 parameter combinations.
 ## 📊 Key Visualizations
 
 ### 📌 Price Distribution  
-![price_distribution](figures/price_distribution.png)
+![image](https://github.com/user-attachments/assets/e050dbff-8a1c-4b73-a0db-3187aa730576)
+
 
 ### 📌 Price vs Year  
 ![price_vs_year](figures/price_vs_year.png)
@@ -95,8 +96,3 @@ Model was tuned using `RandomizedSearchCV` over 50 parameter combinations.
 - The importance of encoding and simplifying categorical variables
 
 - The value of hyperparameter tuning in boosting model performance
-
-👤 Author
-Dean Choi
-📧 cdh0118@gmail.com
-🔗 LinkedIn
