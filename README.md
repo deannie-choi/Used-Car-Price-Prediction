@@ -29,18 +29,22 @@ The final tuned model achieved an R² score of **0.8235**, predicting prices wit
 
 ---
 
-## 📁 Project Structure
+```plaintext
+
+📁 Project Structure
+
 used-car-price-prediction/
-├── notebooks/ # Modular Jupyter Notebooks
-│ ├── 01_data_understanding.ipynb
-│ ├── 02_eda.ipynb
-│ ├── 03_feature_engineering.ipynb
-│ ├── 04_model_baseline.ipynb
-│ ├── 05_model_tuned.ipynb
-│ └── 06_feature_importance_and_insights.ipynb
+├── notebooks/                     # Modular Jupyter Notebooks
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_eda.ipynb
+│   ├── 03_feature_engineering.ipynb
+│   ├── 04_model_baseline.ipynb
+│   ├── 05_model_tuned.ipynb
+│   └── 06_feature_importance_and_insights.ipynb
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
